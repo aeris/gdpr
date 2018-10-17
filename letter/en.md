@@ -1,4 +1,4 @@
-Dear Sir/Madam:
+Dear Sir or Madam:
 
 I am writing to you in your capacity as data protection officer for your 
 company. In light of recent spam received on this email address,
@@ -12,10 +12,10 @@ I proof my identity and this email address property by signing this email with
 my GPG key 0xefb74277ece4e222.
 If you require further information, please contact me at my address above.
 
-I would like you to be aware at the outset, that I anticipate reply to my 
-request within one month as required under Article 12, failing which I will be 
-forwarding my inquiry with a letter of complaint to the CNIL (French RGPD 
-regulator).
+I would like you to be aware at the outset, that I expect a reply to my 
+request within one month, as required under Article 12. Failure to comply will
+leave me with no other option but to forward my inquiry with a letter of 
+complaint to the CNIL (French GDPR regulator).
 
 Please advise as to the following:
 
@@ -38,7 +38,7 @@ you have or are processing.
 2.   Please provide me with a detailed accounting of the specific uses that 
 you have made, are making, or will be making of my personal data.
 
-3.   Please provide a list of all third parties with whom you have (or may 
+3.   Please provide me with a list of all third parties with whom you have (or may 
 have) shared my personal data.
 
         a.   If you cannot identify with certainty the specific third parties to 
@@ -114,8 +114,8 @@ advise what mitigating steps you have taken, such as
                       iv.    Any other means
 
 8.   I would like to know your information policies and standards that you 
-follow in relation to the safeguarding of my personal data, such as whether 
-you adhere to ISO27001 for information security, and more particularly, your 
+enforce in relation to the safeguarding of my personal data, such as whether 
+you comply with to ISO27001 for information security, and more particularly, your 
 practices in relation to the following:
 
         a.   Please inform me whether you have backed up my personal data to 
