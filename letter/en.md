@@ -1,36 +1,36 @@
 Dear Sir or Madam:
 
 I am writing to you in your capacity as data protection officer for your 
-company. In light of recent spam received on this email address,
-I am making this request for access to personal data 
+company. Following recent spam received on this email address,
+I am making this request for access to my personal data 
 pursuant to Article 15 of the General Data Protection Regulation.
 I am concerned that your company’s information practices may be putting my 
 personal information at undue risk of exposure or in fact has breached its 
 obligation to safeguard my personal information.
 
-I proof my identity and this email address property by signing this email with 
+I prove my identity and this email address property by signing this email with 
 my GPG key 0xefb74277ece4e222.
 If you require further information, please contact me at my address above.
 
-I would like you to be aware at the outset, that I expect a reply to my 
-request within one month, as required under Article 12. Failure to comply will
+I would like you to be aware at the outset that I expect a reply to my 
+request within one month, as required per Article 12. Failure to comply will
 leave me with no other option but to forward my inquiry with a letter of 
 complaint to the CNIL (French GDPR regulator).
 
 Please advise as to the following:
 
-1.   Please confirm to me whether or not my personal data is being processed. 
+1.   Please confirm whether or not my personal data is being processed. 
 If it is, please provide me with the categories of personal data you have 
 about me in your files and databases.
 
         a.   In particular, please tell me what you know about me in your 
-information systems, whether or not contained in databases, and including e-
-mail, documents on your networks, or voice or other media that you may store.
+information systems, whether or not contained in databases, and including
+email, documents on your networks, or voice or other media that you may store.
 
         b.   Additionally, please advise me in which countries my personal data is 
 stored, or accessible from. In case you make use of cloud services to store or 
 process my data, please include the countries in which the servers are located 
-where my data are or were (in the past 12 months) stored.
+where my data are or have been (in the past 12 months) stored.
 
         c.   Please provide me with a copy of, or access to, my personal data that 
 you have or are processing.
@@ -45,15 +45,15 @@ have) shared my personal data.
 whom you have disclosed my personal data, please provide a list of third 
 parties to whom you may have disclosed my personal data.
 
-        b.   Please also identify which jurisdictions that you have identified in 
-1(b) above that these third parties with whom you have or may have shared my 
+        b.   Please also identify which jurisdictions identified in 1(b)
+above that these third parties with whom you have or may have shared my 
 personal data, from which these third parties have stored or can access my 
 personal data. Please also provide insight in the legal grounds for 
 transferring my personal data to these jurisdictions. Where you have done so, 
 or are doing so, on the basis of appropriate safeguards, please provide a 
 copy.
 
-        c.   Additionally, I would like to know what safeguards have been put in 
+        c.   Additionally, I would like to know which safeguards have been put in 
 place in relation to these third parties that you have identified in relation 
 to the transfer of my personal data.
 
@@ -70,7 +70,7 @@ whether or not on the basis of Article 22 of the GDPR, please provide me with
 information concerning the basis for the logic in making such automated 
 decisions, and the significance and consequences of such processing.
 
-7.   I would like to know whether or not my personal data has been disclosed 
+7.   I would like to know whether or not my personal data was disclosed 
 inadvertently by your company in the past, or as a result of a security or 
 privacy breach.
 
@@ -96,14 +96,14 @@ myself, as a result of the breach;
 be taken to prevent further unauthorized access to my personal data;
 
                     viii.    contact information so that I can obtain more 
-information and assistance in relation to such a breach, and
+information and assistance in relation to the breach, and
 
                      ix.    information and advice on what I can do to protect 
 myself against any harms, including identity theft and fraud.
 
         b.   If you are not able to state with any certainty whether such an 
-exposure has taken place, through the use of appropriate technologies, please 
-advise what mitigating steps you have taken, such as
+exposure took place, through the use of appropriate technologies, please 
+advise what mitigating steps you have taken, such as:
 
                       i.    Encryption of my personal data;
 
@@ -113,7 +113,7 @@ advise what mitigating steps you have taken, such as
 
                       iv.    Any other means
 
-8.   I would like to know your information policies and standards that you 
+8.   I would like to know the information policies and standards that you 
 enforce in relation to the safeguarding of my personal data, such as whether 
 you comply with to ISO27001 for information security, and more particularly, your 
 practices in relation to the following:
@@ -146,13 +146,13 @@ following:
 that 
 individuals within your organization will be monitored to ensure that they do 
 not deliberately or inadvertently disclose personal data outside your company, 
-through e-mail, web-mail or instant messaging, or otherwise.
+through email, web-mail or instant messaging, or otherwise.
 
         b.   Have you had had any circumstances in which employees or 
 contractors 
 have been dismissed, and/or been charged under criminal laws for accessing my 
-personal data inappropriately, or if you are unable to determine this, of any 
-customers, in the past twelve months.
+personal data inappropriately, or if you are unable to determine this, the data
+of any of your customers, in the past twelve months.
 
         c.   Please advise as to what training and awareness measures you have 
 taken in order to ensure that employees and contractors are accessing and 
