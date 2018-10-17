@@ -15,6 +15,10 @@ As Article 7 says, I want you to prove me I have given my consent for my data to
 As Article 12 says, you have 1 month to fulfill my request, after which I will open a case to the EU regulator.
 	http://www.privacy-regulation.eu/en/12.htm
 
-I also want all my personal data to be destroyed from your databases or other storage (including backups). **But only after you provide me with the information requested above.**
+As per Article 17, I also want all my personal data to be destroyed from your databases or other storage (including backups). **But only after you provide me with the information requested above.**
+	http://www.privacy-regulation.eu/en/17.htm
+
+As per Article 19, I would be grateful if you would ask **any company** to whom you might have transferred my data, to do so as well, and provide me with the proofs of those destructions.
+	http://www.privacy-regulation.eu/en/19.htm
 
 Regards,
