@@ -18,7 +18,7 @@ As Article 12 says, you have 1 month to fulfill my request, after which I will o
 As per Article 17, I also want all my personal data to be destroyed from your databases or other storage (including backups). **But only after you provide me with the information requested above.**
 	http://www.privacy-regulation.eu/en/17.htm
 
-As per Article 19, I would be grateful if you would ask **any company** to whom you might have transferred my data, to do so as well, and provide me with the proofs of those destructions.
+As per Article 19, I would be grateful if you would ask **any company** to whom you might have transferred my data, to do so as well, and provide me with proof of said destructions.
 	http://www.privacy-regulation.eu/en/19.htm
 
 Regards,
