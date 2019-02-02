@@ -3,10 +3,10 @@ Bonjour,
 Les données à caractère personnel me concernant telle que mon adresse email sont protégées par les lois relatives aux données personnelles. Depuis mai 2018, le Règlement général sur la protection des données (RGPD) s'applique au traitement de mon adresse email et toute autre information me concernant.
 https://www.privacy-regulation.eu/fr/
 
-En vertu de l’article 3 du RGPD, les règles prévues par ce texte s'applique à votre entrerpise car le traitement de données personnelles est effectué sur le territoire de l'Union européenne, y compris si votre société se situe en dehors de l'Union Européenne.
+En vertu de l’article 3 du RGPD, les règles prévues par ce texte s'appliquent à votre entreprise car le traitement de données personnelles est effectué sur le territoire de l'Union européenne, y compris si votre société se situe en dehors de l'Union Européenne.
 https://www.privacy-regulation.eu/fr/3.htm
 
-Dès lors, en tant que responsable de traitement, vous êtes soumis à certaines obligations. 
+Dès lors, en tant que responsable de traitement, vous êtes soumis à certaines obligations.
 En vertu des articles 13 et 15 du RGPD vous devez me fournir certaines informations lors de la collecte de mes données personnelles. Dès lors, en vertu de l’article 15 du RGPD, je vous prie de bien vouloir me fournir toutes les données personnelles me concernant que vous avez, le but du traitement, sur quel fondement et pour quelles finalités vous traitez ces données, si vous partagez mes données avec des tiers ou des entreprises situés dans des pays tiers à l'Union européenne, ainsi que l’ensemble des informations mentionnées dans l'article 15.
 https://www.privacy-regulation.eu/fr/15.htm
 
