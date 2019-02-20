@@ -20,7 +20,7 @@ délai d'un mois à compter de la réception de cette demande. Passé ce délai,
 Sur le fondement de l’article 17, je souhaite également que toutes mes données personnelles soient détruites de votre base de données (sauvegarde comprise). **Mais uniquement après m'avoir communiqué les informations demandées ci-dessus**.
 	http://www.privacy-regulation.eu/fr/17.htm
 
-Enfin, et au titre de l’article 19 du RGPD, je vous saurai gré de faire procéder à cette suppression auprès de **TOUT AUTRE** prestataire à qui vous auriez communiquées mes données personnelles, et de me fournir les documents attestant de ces suppressions.
+Enfin, et au titre de l’article 19 du RGPD, je vous saurai gré de faire procéder à cette suppression auprès de **TOUT AUTRE** prestataire à qui vous auriez communiqué mes données personnelles, et de me fournir les documents attestant de ces suppressions.
 	http://www.privacy-regulation.eu/fr/19.htm
 
 Cordialement,
