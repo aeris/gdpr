@@ -1,6 +1,6 @@
 Hi,
 
-My personal data, including my email address, are protected under data protection law. The Data protection Regulation (GDPR) applies to the processing of my email adress and any other information related to me.
+My personal data, including my email address, are protected under data protection law. The Data protection Regulation (GDPR) applies to the processing of my email address and any other information related to me.
 	http://www.privacy-regulation.eu/en/
 
 As article 3 provides, the whole GDPR law applies to you because I am an EU citizen, even if your company is based outside of the EU.
