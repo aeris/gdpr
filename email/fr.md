@@ -3,7 +3,7 @@ Bonjour,
 Les données à caractère personnel me concernant telle que mon adresse mail sont protégées par les lois relatives aux données personnelles. Depuis mai 2018, le Règlement européen sur la protection des données (RGPD) s'applique au traitement de mon adresse mail et toute autre information me concernant. 
 http://www.privacy-regulation.eu/fr/
 
-En vertu de l’article 3 du RGPD, les règles prévues par ce texte s'applique à votre entreprise car le traitement de données personnelles est effectué sur le territoire de l'Union européenne, y compris si votre société se situe en dehors de l'Union Européenne.
+En vertu de l’article 3 du RGPD, les règles prévues par ce texte s'appliquent à votre entreprise car le traitement de données personnelles est effectué sur le territoire de l'Union européenne, y compris si votre société se situe en dehors de l'Union Européenne.
 	http://www.privacy-regulation.eu/fr/3.htm
 
 Dès lors, en tant que responsable de traitement, vous êtes soumis à certaines obligations. 
