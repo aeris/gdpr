@@ -1,6 +1,9 @@
-Bonjour,
+**Avis de non responsabilité :** ce modèle de courrier est une création collective. Il est mis à votre disposition pour vous aider à rédiger le vôtre. Il vous appartient de l'adapter à votre situation particulière, sous votre seule responsabilité. Vous pouvez notamment le simplifier (URLS, détails des articles..), l'adapter au traitement d'une donnée personnelle particulière, supprimer certaines mentions proposées ou en ajouter de nouvelles. Ce modèle de courrier ne doit pas, en tout état de cause, être considéré comme un conseil juridique.
 
-Les données qui me concernent, incluant mon adresse mail, sont protégées par la législation relative à la protection des données à caractère personnel, incluant le Règlement général sur la protection des données (RGPD) :  
+
+[Bonjour,]  / [Madame, Monsieur,]
+
+Les données qui me concernent, incluant mon adresse email, sont protégées par la législation relative à la protection des données à caractère personnel, incluant le Règlement général sur la protection des données (RGPD) :  
 	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679
 
 Les dispositions du RGPD s'appliquent à votre établissement, en vertu de l'article 3 de ce texte, dès lors que les activités de cet établissement ou celles de l'un de ses sous-traitants ont lieu sur le territoire de l'Union, ou dès lors que votre traitement de données à caractère personnel concerne des personnes qui se trouvent sur le territoire de l'Union européenne dans le cadre d'une offre de biens ou de service, même si votre société est établie en dehors de l'Union Européenne.
