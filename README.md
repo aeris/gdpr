@@ -4,7 +4,7 @@
 
 The templates that are available in the current repository are the result of a collaborative work. They are provided to help you write your own letters.
 
-You are responsible for adapting them to your specific situation, under your own responsibility (data concerned, relevance of providing URLs and provisions'details, statements deletion or addition...).
+You are responsible for adapting them to your specific situation (data concerned, relevance of providing URLs and provisions'details, statements deletion or addition...).
 
 In any event, these templates cannot be regarded as legal advice.
 
