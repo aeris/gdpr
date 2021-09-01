@@ -1,6 +1,8 @@
 **Avis de non responsabilité :** ce modèle de courrier est une création collective. Il est mis à votre disposition pour vous aider à rédiger le vôtre. Il vous appartient de l'adapter à votre situation particulière, sous votre seule responsabilité. Vous pouvez notamment le simplifier (URLS, détails des articles..), l'adapter au traitement d'une donnée personnelle particulière, supprimer certaines mentions proposées ou en ajouter de nouvelles. Ce modèle de courrier ne doit pas, en tout état de cause, être considéré comme un conseil juridique.
 
 
+
+
 [Bonjour,]  / [Madame, Monsieur,]
 
 Les données qui me concernent, incluant mon adresse email, sont protégées par la législation relative à la protection des données à caractère personnel, incluant le Règlement général sur la protection des données (RGPD) :  
@@ -28,4 +30,4 @@ Je vous saurai gré, enfin, de faire procéder à cette suppression auprès de *
 	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679#d1e2792-1-1
 
 
-Cordialement,
+[Cordialement,]
