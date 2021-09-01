@@ -1,8 +1,3 @@
-
-> ***Avis de non responsabilité :** ce modèle de courrier est une création collective. Il est mis à votre disposition pour vous aider à rédiger le vôtre. Il vous appartient de 
->  l'adapter à votre situation particulière, sous votre seule responsabilité (données concernées, pertinence de détailler URLs et articles, suppression ou ajout de mentions...).
->  Ce modèle de courrier ne doit pas, en tout état de cause, être considéré comme un conseil juridique.*
-
 [Bonjour,]  / [Madame, Monsieur,]
 
 Les données qui me concernent, incluant mon adresse email, sont protégées par la législation relative à la protection des données à caractère personnel, incluant le Règlement général sur la protection des données (RGPD) :  
