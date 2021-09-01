@@ -15,4 +15,4 @@ Les modèles de courriers proposés dans ce dépôt sont le fruit d'un travail c
 Il vous appartient de les adapter à votre situation particulière, sous votre seule responsabilité (données concernées, pertinence de détailler URLs et articles, suppression 
 ou ajout de mentions...).
 
-Ces modèles de courriers ne doivent pas, en tout état de cause, être considérés comme un conseil juridique.
+En tout état de cause, ces modèles de courriers ne doivent pas être considérés comme un conseil juridique.
