@@ -1,7 +1,8 @@
-**Avis de non responsabilité :** ce modèle de courrier est une création collective. Il est mis à votre disposition pour vous aider à rédiger le vôtre. Il vous appartient de l'adapter à votre situation particulière, sous votre seule responsabilité. Vous pouvez notamment le simplifier (URLS, détails des articles..), l'adapter au traitement d'une donnée personnelle particulière, supprimer certaines mentions proposées ou en ajouter de nouvelles. Ce modèle de courrier ne doit pas, en tout état de cause, être considéré comme un conseil juridique.
 
-
-
+> ***Avis de non responsabilité :** ce modèle de courrier est une création collective. Il est mis à votre disposition pour vous aider à rédiger le vôtre. Il vous appartient de 
+>  l'adapter à votre situation particulière, sous votre seule responsabilité. Vous pouvez notamment le simplifier (URLS, détails des articles..), l'adapter au traitement d'une 
+>  donnée personnelle particulière, supprimer certaines mentions proposées ou en ajouter de nouvelles. Ce modèle de courrier ne doit pas, en tout état de cause, être considéré
+>  comme un conseil juridique.*
 
 [Bonjour,]  / [Madame, Monsieur,]
 
