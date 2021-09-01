@@ -1,5 +1,5 @@
 # gdpr
-**GDPR letter template / Modèles de courriers RGPD**
+**GDPR letter templates / Modèles de courriers RGPD**
 
 
 The templates that are available in the current repository are the result of a collaborative work. They are provided to help you write your own letters.
