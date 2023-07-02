@@ -18,7 +18,7 @@ Je vous prie également de bien vouloir me communiquer le fondement qui justifie
 Je vous rappelle votre obligation de répondre à ma demande dans les meilleurs délais et en tout état de cause dans un délai d'un mois à compter de la réception de la présente, aux termes de l'article 12 (3) du RGPD. Passé ce délai, j'introduirai une réclamation auprès de l'autorité compétente et me réserve la possibilité de toute autre action auprès de l'autorité judiciaire.
 	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679#d1e2228-1-1
 
-Conformément à l’article 17 du RGPD, je vous demande également, **après vous être acquitté de votre obligation de me communiquer les informations que je sollicite ci-dessus au titre de mon droit d'accès**, de procéder sans délai à la destruction de toutes les données à caractère personnel que vous détenez ne concernant et ceci dans l’ensemble de vos bases de données (sauvegardes comprises).
+Conformément à l’article 17 du RGPD, je vous demande également, **après vous être acquitté de votre obligation de me communiquer les informations que je sollicite ci-dessus au titre de mon droit d'accès**, de procéder sans délai à la destruction de toutes les données à caractère personnel que vous détenez me concernant et ceci dans l’ensemble de vos bases de données (sauvegardes comprises).
 	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679#d1e2652-1-1
 
 Je vous saurai gré, enfin, de faire procéder à cette suppression auprès de **TOUT AUTRE** prestataire auquel mes données à caractère personnelles auraient été communiquées et de me fournir les documents attestant de ces suppressions, tel que le prévoit l’article 19 du RGPD.
