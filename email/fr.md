@@ -10,6 +10,9 @@ En conséquence, en tant que responsable de traitement, vous êtes soumis à cer
 
 Les articles 13 à 15 du RGPD vous imposent en particulier de me communiquer un certain nombre d'informations, lors de votre collecte de données à caractère personnel puis sur ma demande en cas d'exercice de mon droit d'accès. A ce dernier titre, je vous prie de bien vouloir me communiquer l'ensemble des informations listées à l'article 15 du RGPD, incluant toutes les données qui me concernent ainsi que mention de la finalité de votre traitement, de la source de mes données et des destinataires de ces données, notamment ceux qui sont, le cas échéant, situés dans des pays tiers à l'Union européenne.
 	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679#d1e2559-1-1
+
+Concernant les données personnelles susnommées, je vous pris de me les transmettre dans un format structuré, couramment utilisé et lisible par machine (article 20 du RGPD).
+	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679#d1e2799-1-1
 	
 Je vous prie également de bien vouloir me communiquer le fondement qui justifie votre traitement de données (qui doit être l'un de ceux mentionnés à l'article 6, 1 du RGPD), sauf à me démontrer que vous m'avez déjà communiqué cette information au titre des articles 13 et 14 du RGPD. Si le fondement qui justifie le traitement de mes données à caractère personnel est mon consentement (article 6, 1, a du RGPD), je vous remercie de me communiquer les preuves de mon accord explicite et libre, donné dans les formes prévues à l'article 7 du RGPD. Si ce fondement était votre intérêt légitime (article 6, 1, f du RGPD), je vous remercie de me préciser ce dernier ainsi que vous l'imposent les dispositions de ces mêmes articles.
 	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679#d1e1937-1-1
