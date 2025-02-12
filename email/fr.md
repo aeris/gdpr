@@ -1,6 +1,6 @@
-Bonjour,
+[Bonjour,]  / [Madame, Monsieur,]
 
-Les données qui me concernent, incluant mon adresse mail, sont protégées par la législation relative à la protection des données à caractère personnel, incluant le Règlement général sur la protection des données (RGPD) :  
+Les données qui me concernent, incluant mon adresse email, sont protégées par la législation relative à la protection des données à caractère personnel, incluant le Règlement général sur la protection des données (RGPD) :  
 	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679
 
 Les dispositions du RGPD s'appliquent à votre établissement, en vertu de l'article 3 de ce texte, dès lors que les activités de cet établissement ou celles de l'un de ses sous-traitants ont lieu sur le territoire de l'Union, ou dès lors que votre traitement de données à caractère personnel concerne des personnes qui se trouvent sur le territoire de l'Union européenne dans le cadre d'une offre de biens ou de service, même si votre société est établie en dehors de l'Union Européenne.
@@ -27,4 +27,4 @@ Je vous saurai gré, enfin, de faire procéder à cette suppression auprès de *
 	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679#d1e2792-1-1
 
 
-Cordialement,
+[Cordialement,]
